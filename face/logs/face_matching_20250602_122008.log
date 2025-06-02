@@ -1,0 +1,13 @@
+2025-06-02 12:20:08,393 - INFO - [*] Step 1: Data Preparation
+2025-06-02 12:20:08,393 - INFO - [*] No existing real dataset found. Setting up sklearn LFW...
+2025-06-02 12:20:27,220 - INFO - [+] Successfully setup sklearn LFW dataset (REAL FACES)
+2025-06-02 12:20:27,221 - INFO - [*] Creating data splits...
+2025-06-02 12:20:27,277 - INFO - [+] Data splits created:
+2025-06-02 12:20:27,277 - INFO -    Train: 1175 identities, 6099 images
+2025-06-02 12:20:27,278 - INFO -    Val: 252 identities, 1523 images
+2025-06-02 12:20:27,278 - INFO -    Test: 253 identities, 1542 images
+2025-06-02 12:20:27,278 - INFO - [*] Step 2: Model Training
+2025-06-02 12:20:27,688 - INFO - [*] Starting training on cpu
+2025-06-02 12:20:27,689 - INFO - Model parameters: 26,134,080
+2025-06-02 12:20:27,856 - INFO - 
+[*] Epoch 1/30
