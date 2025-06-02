@@ -29,7 +29,7 @@ This system addresses the challenging task of recognizing the same person at dif
 ├── main.py               # Integrated pipeline
 └── requirements.txt      # Dependencies
 ```
-Notice "Checkpoints here 
+Notice "Checkpoints here https://drive.google.com/drive/folders/1kdN1REJbHtup5S0G1si6Msk5t6wefRh0?usp=drive_link"
 ## 🚀 Quick Start https://drive.google.com/drive/folders/1kdN1REJbHtup5S0G1si6Msk5t6wefRh0?usp=sharing
 
 ### 1. Environment Setup
